@@ -1,0 +1,31 @@
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\bin\Debug\2019_11_12_CortedeControl_P1.exe.config
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\bin\Debug\2019_11_12_CortedeControl_P1.exe
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\bin\Debug\2019_11_12_CortedeControl_P1.pdb
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\_2019_11_12_CortedeControl_P1.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\_2019_11_12_CortedeControl_P1.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\2019_11_12_CortedeControl_P1.exe
+C:\Users\Dario Cardacci\source\repos\2021_2C\P1_1B_TM\Unidad V\2019_11_12_CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\2019_11_12_CortedeControl_P1.pdb
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\bin\Debug\2019_11_12_CortedeControl_P1.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\bin\Debug\2019_11_12_CortedeControl_P1.exe
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\bin\Debug\2019_11_12_CortedeControl_P1.pdb
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\_2019_11_12_CortedeControl_P1.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\_2019_11_12_CortedeControl_P1.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\2019_11_12_CortedeControl_P1.exe
+C:\Users\Dario Cardacci\source\repos\2022\2C\P1 1A TM\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\2019_11_12_CortedeControl_P1.pdb
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\bin\Debug\2019_11_12_CortedeControl_P1.exe.config
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\bin\Debug\2019_11_12_CortedeControl_P1.exe
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\bin\Debug\2019_11_12_CortedeControl_P1.pdb
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\_2019_11_12_CortedeControl_P1.Form1.resources
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\_2019_11_12_CortedeControl_P1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\CortedeControl_P1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\2019_11_12_CortedeControl_P1.exe
+C:\Users\Usuario\Desktop\Codigos de la clase\Clase 13 - Corte de Control\Archivos\CortedeControl_P1\2019_11_12_CortedeControl_P1\obj\Debug\2019_11_12_CortedeControl_P1.pdb
